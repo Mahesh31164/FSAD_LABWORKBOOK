@@ -1,0 +1,5 @@
+com\klu\repo\StudentRepository.class
+com\klu\Skill12Application.class
+com\klu\entity\Student.class
+com\klu\serviceImpl\StudentService.class
+com\klu\controller\StudentController.class
